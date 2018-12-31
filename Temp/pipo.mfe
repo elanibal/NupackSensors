@@ -1,8 +1,8 @@
 % NUPACK 3.2.2
 % Program: mfe
-% Start time: Mon Dec 31 11:05:38 2018
-% Command: mfe -T 23 pipo 
-% Sequence:  AGAGGAGAUAAAGAUGGAUAGGUUUGCUAACCUGGCGGCAGCGCAAAA
+% Start time: Mon Dec 31 11:04:02 2018
+% Command: mfe -T 23 Temp/pipo 
+% Sequence:  GAUAGGUUUGCACAUGCCCUCAGGUUCUUGAAUGAU
 % v(pi): 1
 % Parameters: RNA, 1995
 % Dangles setting: 1
@@ -11,16 +11,15 @@
 % Magnesium concentration: 0.0000 M
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
-48
--10.878
-...................(((((....))))).(((....)))....
-20	33
-21	32
-22	31
-23	30
-24	29
-35	44
-36	43
-37	42
+36
+-6.329
+....(((........))).((((....)))).....
+5	18
+6	17
+7	16
+20	31
+21	30
+22	29
+23	28
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
 
