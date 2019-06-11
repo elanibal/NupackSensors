@@ -1,0 +1,43 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Sun Dec 30 23:53:25 2018
+% Command: mfe -T 23 Temppipo 
+% Sequence:  AUCAUUCAAGAACCUGAGGGCAUGUGCAAACCUAUCGGACUUUAGAACAGAGGAGAUAAAGAUGGAUAGGUUUGCUAACCUGGCGGCAGCGCAAAAG
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 23.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+97
+-34.066
+.((......)).....(((......(((((((((((.(.(((((............))))).).)))))))))))...))).(((....))).....
+2	11
+3	10
+17	81
+18	80
+19	79
+26	75
+27	74
+28	73
+29	72
+30	71
+31	70
+32	69
+33	68
+34	67
+35	66
+36	65
+38	63
+40	61
+41	60
+42	59
+43	58
+44	57
+83	92
+84	91
+85	90
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+

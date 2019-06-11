@@ -1,8 +1,8 @@
 % NUPACK 3.2.2
 % Program: mfe
-% Start time: Wed Apr 24 14:21:17 2019
+% Start time: Tue Mar 26 18:56:04 2019
 % Command: mfe -T 29 pipo 
-% Sequence:  AGAGGAGAUAAAGAUGGACUUGUUCAUACCTGGCGGCAGCGCAAGAAG
+% Sequence:  AGAGGAGAUAAAGAUGGCUUGCAUUCAACCTGGCGGCAGCGCAAGAAG
 % v(pi): 1
 % Parameters: RNA, 1995
 % Dangles setting: 1
@@ -12,16 +12,16 @@
 
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
 48
--10.535
-..(((.((..(((.....)))..))...))).(((....)))......
+-9.395
+..(((.((..(((....)))....))..))).(((....)))......
 3	31
 4	30
 5	29
-7	25
-8	24
-11	21
-12	20
-13	19
+7	26
+8	25
+11	20
+12	19
+13	18
 33	42
 34	41
 35	40
