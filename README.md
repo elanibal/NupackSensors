@@ -6,6 +6,7 @@ This repository is a open tool for designing novel toehold sensors for a given R
 
 # Dependencies
 1.-NUPACK 3.0 (http://nupack.org/).
+
 2.-Python 3
 
 
