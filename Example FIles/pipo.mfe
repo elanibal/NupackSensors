@@ -1,7 +1,7 @@
 % NUPACK 3.2.2
 % Program: mfe
-% Start time: Fri Nov 29 09:49:14 2019
-% Command: mfe -T 29 pipo 
+% Start time: Fri Nov 29 12:48:13 2019
+% Command: mfe -T 29 ./Example FIles/pipo 
 % Sequence:  AGAGGAGAUAAAGAUGCAAAGGACGUCACCUGGCGGCAGCGCAAGAAG
 % v(pi): 1
 % Parameters: RNA, 1995
