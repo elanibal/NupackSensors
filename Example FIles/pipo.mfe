@@ -1,0 +1,28 @@
+% NUPACK 3.2.2
+% Program: mfe
+% Start time: Fri Nov 29 09:49:14 2019
+% Command: mfe -T 29 pipo 
+% Sequence:  AGAGGAGAUAAAGAUGCAAAGGACGUCACCUGGCGGCAGCGCAAGAAG
+% v(pi): 1
+% Parameters: RNA, 1995
+% Dangles setting: 1
+% Temperature (C): 29.0
+% Sodium concentration: 1.0000 M
+% Magnesium concentration: 0.0000 M
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+48
+-9.852
+..(((.(((.....(....)....))).))).(((....)))......
+3	31
+4	30
+5	29
+7	27
+8	26
+9	25
+15	20
+33	42
+34	41
+35	40
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
+
