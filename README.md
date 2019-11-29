@@ -4,7 +4,10 @@ Toehold riboswitches are a de-novo designed regulators of gene expression afecti
 
 This repository is a open tool for designing novel toehold sensors for a given RNA. It interacts with NUPACK software for annalysis of RNA structures and all the code is writen in Python 3.0. 
 
-Before starting, install NUPACK 3.0 (http://nupack.org/).
+# Dependencies
+1.-NUPACK 3.0 (http://nupack.org/).
+2.-Python 3
+
 
 # References
 
