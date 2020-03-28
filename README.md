@@ -9,6 +9,17 @@ This repository is a open tool for designing novel toehold sensors for a given R
 
 2.-Python 3
 
+# Fast prototyping Toehold Sensors in cell-free reactions
+
+Once toehold sensors are design, they can be fastlly screened in Cell-free reactions using PCR products, and In vitro transcribed trigger RNAs. We Use LacZ output, which gives a colorimetrics change from yellow ( negative controls ) to purple. 
+
+
+<img src="Results_1.jpg" width="500">
+
+<img src="positive.jpg" width="500">
+
+
+Here is a link to the protocol we use for making in-house low-cost cell-free reactions https://www.protocols.io/view/preparation-of-cell-free-rnapt7-reactions-kz2cx8e
 
 # References
 
