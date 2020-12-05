@@ -21,7 +21,7 @@ The methods are demonstrated in a Jupyter notebook. Once you have python 3 insta
 
 ## Fast prototyping Toehold Sensors in cell-free reactions
 
-Once toehold sensors are design, they can be fastlly screened in Cell-free reactions using PCR products, and In vitro transcribed trigger RNAs. We Use LacZ output, which gives a colorimetrics change from yellow ( negative controls ) to purple. 
+Once toehold sensors are designed, they can be fastlly screened in cell-free reactions, or PURE-based reactions, using PCR products, and In-vitro transcribed trigger RNAs. We Use LacZ output, which gives a colorimetrics change from yellow ( negative controls ) to purple. 
 
 <div style="text-align:center">
   <img src="Results_1.jpg" width="300">
